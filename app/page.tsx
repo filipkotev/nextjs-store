@@ -1,4 +1,4 @@
-function HomePage() {
-  return <h1 className='text-3xl'>HomePage</h1>;
-}
+const HomePage = () => {
+  return <div>Store Starter</div>;
+};
 export default HomePage;
